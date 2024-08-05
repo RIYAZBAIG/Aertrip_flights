@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #14274E;
+  }
+  
+  .logo img {
+    height: 50px;
+  }
+  
+  .menu a {
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+  }
+  
+  .menu a:hover {
+    text-decoration: underline;
+  }
+  a:hover{
+    border-radius: 20px;
+    background-color: green;
+    padding: 10px;
+    text-decoration: none;
+  }
